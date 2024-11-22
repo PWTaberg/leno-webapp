@@ -57,10 +57,8 @@ The Web application is 1100px wide and have media queries 998px and 768px (mobil
 
 ### Link to LENO Website
 
+https://pwtaberg.github.io/leno-webapp/
+
 ## Author
 
 Peter Welliver
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
