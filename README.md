@@ -2,9 +2,7 @@
 
 This the resulting Web Application from Traversy Media course HTML & CSS, LENO project.
 
-This is a solution to the [Intro section with dropdown navigation challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
-## Overview
+The purpose of the website is to find subscribers that are interested of using an app for improved productivity.
 
 ### Summary
 
@@ -16,11 +14,11 @@ The main page include the following:
 - Hero section
 - Testimonials section
 - Features section
-- Video Modal, -
+- Video Modal
 - Preview section
 - Details section
-- Screenshots section-
-- Download section.
+- Screenshots section
+- Download section
 
 The details page include the following:
 
